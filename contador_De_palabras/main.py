@@ -18,4 +18,4 @@ print("Palabras más frecuentes:")
 for palabra, freq in mas_comunes:
     print(f"{palabra}: {freq}")
 
-print(f"Total de palabras (por función contar_palabras): {c.contar_palabras(texto)}")
+print(f"Total de palabras (por función contar_palabras: {c.contar_palabras(texto)}")
