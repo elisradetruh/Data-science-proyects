@@ -19,7 +19,7 @@ def division(a, b):
 resultado = float(input("Ingrese el primer número: "))
 
 while True:
-    operacion = input("Ingrese la operación (+, -, *, /) o 'salir': ")
+    operacion = input("Ingrese la operación (+, -, *, /) o salir: ")
     if operacion == "salir":
         print("Resultado final:", resultado)
         break
