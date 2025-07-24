@@ -1,0 +1,1 @@
+Hola estas palabras no se cuantas son pero son muchas y no se si abra una manera de hacer esto mas eficiente y mas rápida, me pregunto si con polars se podria
