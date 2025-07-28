@@ -1,0 +1,67 @@
+{
+  "categorias": {
+    "Imagenes": [
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".bmp",
+      ".tiff",
+      ".webp"
+    ],
+    "Documentos": [
+      ".pdf",
+      ".docx",
+      ".txt",
+      ".xlsx",
+      ".doc",
+      ".rtf",
+      ".odt"
+    ],
+    "Videos": [
+      ".mp4",
+      ".avi",
+      ".mkv",
+      ".mov",
+      ".wmv",
+      ".flv",
+      ".webm"
+    ],
+    "Musica": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".aac",
+      ".ogg",
+      ".wma"
+    ],
+    "Comprimidos": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz"
+    ],
+    "Programas": [
+      ".exe",
+      ".msi",
+      ".dmg",
+      ".deb",
+      ".rpm"
+    ],
+    "Otros": []
+  },
+  "opciones": {
+    "sobrescribir": false,
+    "recursivo": false,
+    "profundidad_maxima": 3,
+    "evitar_organizadas": true,
+    "notificaciones": true,
+    "crear_log": true
+  },
+  "carpetas_por_defecto": {
+    "windows": "Downloads",
+    "macos": "Downloads",
+    "linux": "Downloads"
+  }
+}
